@@ -1,0 +1,33 @@
+ 2581  cd homework1/
+ 2582  git init
+ 2583  touch processes.txt
+ 2584  ps -aux > processes.txt
+ 2585  cat processes.txt 
+ 2586  cat processes.txt | grep terminal
+ 2587  ls
+ 2588  cp ./processes.txt ./copy.txt
+ 2589  ls
+ 2590  man wc
+ 2591  wc -l ./processes.txt 
+ 2592  wc -l ./copy.txt >> ./processes.txt
+ 2593  tail ./processes.txt 
+ 2594  mkdir kopia
+ 2595  cp ./copy.txt ./kopia/
+ 2596  ls ./kopia
+ 2597  ls
+ 2598  rm copy.txt 
+ 2599  ls
+ 2600  cat ./processes.txt | grep /bin
+ 2601  cat ./processes.txt | grep /bin >> temp1.txt
+ 2602  cat ./temp1.txt 
+ 2603  cat ./temp1.txt >> processes.txt
+ 2604  rm temp1.txt 
+ 2605  tail processes.txt 
+ 2606  tail processes.txt -N 30
+ 2607  tail processes.txt -n30
+ 2608  history 
+ 2609  history | tail -n5
+ 2610  history | tail -n25
+ 2611  history | tail -n30
+ 2612  history | tail -n32
+ 2613  history | tail -n33 >> commands.txt

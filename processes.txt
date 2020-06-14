@@ -1,0 +1,196 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 160068  9148 ?        Ss   Jun12   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    Jun12   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   Jun12   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   Jun12   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kworker/0:0H-kb]
+root         8  0.0  0.0      0     0 ?        I<   Jun12   0:00 [mm_percpu_wq]
+root         9  0.0  0.0      0     0 ?        S    Jun12   0:01 [ksoftirqd/0]
+root        10  0.0  0.0      0     0 ?        I    Jun12   3:00 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        S    Jun12   0:02 [migration/0]
+root        12  0.0  0.0      0     0 ?        S    Jun12   0:00 [idle_inject/0]
+root        14  0.0  0.0      0     0 ?        S    Jun12   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    Jun12   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    Jun12   0:00 [idle_inject/1]
+root        17  0.0  0.0      0     0 ?        S    Jun12   0:02 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    Jun12   0:00 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kworker/1:0H-kb]
+root        21  0.0  0.0      0     0 ?        S    Jun12   0:00 [kdevtmpfs]
+root        22  0.0  0.0      0     0 ?        I<   Jun12   0:00 [netns]
+root        23  0.0  0.0      0     0 ?        S    Jun12   0:00 [rcu_tasks_kthre]
+root        24  0.0  0.0      0     0 ?        S    Jun12   0:00 [kauditd]
+root        25  0.0  0.0      0     0 ?        S    Jun12   0:00 [khungtaskd]
+root        26  0.0  0.0      0     0 ?        S    Jun12   0:00 [oom_reaper]
+root        27  0.0  0.0      0     0 ?        I<   Jun12   0:00 [writeback]
+root        28  0.0  0.0      0     0 ?        S    Jun12   0:00 [kcompactd0]
+root        29  0.0  0.0      0     0 ?        SN   Jun12   0:00 [ksmd]
+root        30  0.0  0.0      0     0 ?        SN   Jun12   0:00 [khugepaged]
+root        31  0.0  0.0      0     0 ?        I<   Jun12   0:00 [crypto]
+root        32  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kintegrityd]
+root        33  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kblockd]
+root        34  0.0  0.0      0     0 ?        I<   Jun12   0:00 [tpm_dev_wq]
+root        35  0.0  0.0      0     0 ?        I<   Jun12   0:00 [ata_sff]
+root        36  0.0  0.0      0     0 ?        I<   Jun12   0:00 [md]
+root        37  0.0  0.0      0     0 ?        I<   Jun12   0:00 [edac-poller]
+root        38  0.0  0.0      0     0 ?        I<   Jun12   0:00 [devfreq_wq]
+root        40  0.0  0.0      0     0 ?        S    Jun12   0:00 [watchdogd]
+root        44  0.0  0.0      0     0 ?        S    Jun12   0:01 [kswapd0]
+root        45  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kworker/u5:0]
+root        46  0.0  0.0      0     0 ?        S    Jun12   0:00 [ecryptfs-kthrea]
+root       135  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kthrotld]
+root       136  0.0  0.0      0     0 ?        I<   Jun12   0:00 [acpi_thermal_pm]
+root       137  0.0  0.0      0     0 ?        S    Jun12   0:00 [scsi_eh_0]
+root       138  0.0  0.0      0     0 ?        I<   Jun12   0:00 [scsi_tmf_0]
+root       139  0.0  0.0      0     0 ?        S    Jun12   0:00 [scsi_eh_1]
+root       140  0.0  0.0      0     0 ?        I<   Jun12   0:00 [scsi_tmf_1]
+root       143  0.0  0.0      0     0 ?        I<   Jun12   0:00 [ipv6_addrconf]
+root       154  0.0  0.0      0     0 ?        I<   Jun12   0:00 [kstrp]
+root       174  0.0  0.0      0     0 ?        I<   Jun12   0:00 [charger_manager]
+root       175  0.0  0.0      0     0 ?        I<   Jun12   0:10 [kworker/1:1H-kb]
+root       225  0.0  0.0      0     0 ?        S    Jun12   0:00 [scsi_eh_2]
+root       226  0.0  0.0      0     0 ?        I<   Jun12   0:00 [scsi_tmf_2]
+root       229  0.0  0.0      0     0 ?        I<   Jun12   0:07 [kworker/0:1H-kb]
+root       350  0.0  0.0      0     0 ?        S    Jun12   0:04 [jbd2/sda1-8]
+root       351  0.0  0.0      0     0 ?        I<   Jun12   0:00 [ext4-rsv-conver]
+root       410  0.0  1.2 225608 105424 ?       S<s  Jun12   0:29 /lib/systemd/systemd-journald
+root       418  0.0  0.0  97704  1740 ?        Ss   Jun12   0:00 /sbin/lvmetad -f
+root       423  0.0  0.0  46576  4564 ?        Ss   Jun12   0:00 /lib/systemd/systemd-udevd
+root       449  0.0  0.0      0     0 ?        I<   Jun12   0:00 [iprt-VBoxWQueue]
+root       460  0.0  0.0      0     0 ?        I<   Jun12   0:00 [ttm_swap]
+root       561  0.0  0.0      0     0 ?        S    Jun12   0:01 [jbd2/sda5-8]
+root       574  0.0  0.0      0     0 ?        I<   Jun12   0:00 [ext4-rsv-conver]
+systemd+   606  0.0  0.0  70768  6176 ?        Ss   Jun12   0:01 /lib/systemd/systemd-resolved
+root       703  0.0  0.0 288856  7072 ?        Ssl  Jun12   0:31 /usr/lib/accountsservice/accounts-daemon
+root       710  0.0  0.0 110412  2092 ?        Ssl  Jun12   0:05 /usr/sbin/irqbalance --foreground
+syslog     711  0.0  0.0 263032  5048 ?        Ssl  Jun12   0:09 /usr/sbin/rsyslogd -n
+root       714  0.0  0.1 434332  9612 ?        Ssl  Jun12   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root       718  0.0  0.2 171700 17516 ?        Ssl  Jun12   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+avahi      723  0.0  0.0  47256  3236 ?        Ss   Jun12   0:01 avahi-daemon: running [mintVm.local]
+message+   727  0.0  0.0  51420  5756 ?        Ss   Jun12   0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+avahi      731  0.0  0.0  47072   340 ?        S    Jun12   0:00 avahi-daemon: chroot helper
+root       736  0.0  0.2 633648 16924 ?        Ssl  Jun12   0:05 /usr/sbin/NetworkManager --no-daemon
+root       739  0.0  0.1 503068 10328 ?        Ssl  Jun12   0:00 /usr/lib/udisks2/udisksd
+root       741  0.0  0.0  70700  6352 ?        Ss   Jun12   0:01 /lib/systemd/systemd-logind
+root       744  0.0  0.0  32536  3336 ?        Ss   Jun12   0:00 /usr/sbin/cron -f
+root       752  0.0  0.0  45228  5460 ?        Ss   Jun12   0:02 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+kernoops   768  0.0  0.0  56940   420 ?        Ss   Jun12   0:08 /usr/sbin/kerneloops --test
+root       769  0.0  0.0   4548   744 ?        Ss   Jun12   0:01 /usr/sbin/acpid
+kernoops   776  0.0  0.0  56940   424 ?        Ss   Jun12   0:08 /usr/sbin/kerneloops
+root       831  0.0  0.1 297640 10440 ?        Ssl  Jun12   0:01 /usr/lib/policykit-1/polkitd --no-debug
+ntp        871  0.0  0.0 109828  4108 ?        Ssl  Jun12   0:33 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 112:118
+root      1095  0.0  0.0 290528  7084 ?        SLsl Jun12   0:00 /usr/sbin/lightdm
+root      1108  0.0  0.0 313584  2660 ?        Sl   Jun12   0:40 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root      1119  0.4  2.5 801472 205256 tty7    Ssl+ Jun12  15:06 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1120  0.0  0.0  17396  1800 tty1     Ss+  Jun12   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root      1345  0.0  0.1 316416  8728 ?        Ssl  Jun12   0:00 /usr/lib/upower/upowerd
+root      1354  0.0  0.0 269000  7660 ?        Sl   Jun12   0:00 lightdm --session-child 12 19
+piotr     1375  0.0  0.0  76908  7904 ?        Ss   Jun12   0:00 /lib/systemd/systemd --user
+piotr     1376  0.0  0.0 132528  2876 ?        S    Jun12   0:00 (sd-pam)
+piotr     1389  0.0  0.0 282592  7888 ?        Sl   Jun12   0:03 /usr/bin/gnome-keyring-daemon --daemonize --login
+piotr     1392  0.0  0.2 425008 21944 ?        Ssl  Jun12   0:00 xfce4-session
+piotr     1423  0.0  0.0  50676  5184 ?        Ss   Jun12   0:22 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+piotr     1480  0.0  0.0  53796   316 ?        S    Jun12   0:00 /usr/bin/VBoxClient --clipboard
+piotr     1481  0.0  0.0 122184  4340 ?        Sl   Jun12   0:00 /usr/bin/VBoxClient --clipboard
+piotr     1490  0.0  0.0  53796   320 ?        S    Jun12   0:00 /usr/bin/VBoxClient --display
+piotr     1491  0.0  0.0  53932  3480 ?        S    Jun12   0:00 /usr/bin/VBoxClient --display
+piotr     1499  0.0  0.0  53796   320 ?        S    Jun12   0:00 /usr/bin/VBoxClient --seamless
+piotr     1500  0.0  0.0 119980  2208 ?        Sl   Jun12   0:00 /usr/bin/VBoxClient --seamless
+piotr     1509  0.0  0.0  53796   316 ?        S    Jun12   0:00 /usr/bin/VBoxClient --draganddrop
+piotr     1510  0.4  0.0 120500  2184 ?        Sl   Jun12  14:19 /usr/bin/VBoxClient --draganddrop
+piotr     1520  0.0  0.0  11300   320 ?        Ss   Jun12   0:02 /usr/bin/ssh-agent /usr/bin/im-launch startxfce4
+piotr     1547  0.0  0.0 349436  6512 ?        Ssl  Jun12   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+piotr     1553  0.0  0.0  50048  4456 ?        S    Jun12   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+piotr     1556  0.0  0.0 220776  6900 ?        Sl   Jun12   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+piotr     1560  0.0  0.0 263924  5604 ?        Sl   Jun12   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+piotr     1579  0.0  0.0  94532  3536 ?        SLs  Jun12   0:00 /usr/bin/gpg-agent --supervised
+piotr     1581  0.0  1.3 739696 112344 ?       Sl   Jun12   3:19 xfwm4
+piotr     1584  0.0  0.0 286180  7256 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfsd
+piotr     1589  0.0  0.0 416112  5344 ?        Sl   Jun12   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+piotr     1600  0.0  0.2 398132 22516 ?        Ssl  Jun12   0:01 xfsettingsd
+piotr     1607  0.0  0.5 581412 45948 ?        Sl   Jun12   0:10 Thunar --daemon
+piotr     1612  0.0  1.1 768412 94764 ?        Sl   Jun12   0:09 xfdesktop
+piotr     1639  0.0  0.2 1071644 16844 ?       S<l  Jun12   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1640  0.0  0.0 183504  2952 ?        SNsl Jun12   0:03 /usr/lib/rtkit/rtkit-daemon
+piotr     1654  0.0  0.4 732752 35736 ?        Sl   Jun12   0:00 nm-applet
+piotr     1655  0.0  0.1 341748 15708 ?        Ssl  Jun12   0:00 xfce4-power-manager
+piotr     1671  0.0  0.4 251232 32680 ?        Sl   Jun12   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+piotr     1678  0.0  0.1 597340 14192 ?        Ssl  Jun12   0:00 xfce4-volumed
+piotr     1679  0.0  0.3 429536 32240 ?        Sl   Jun12   0:00 blueberry-obex-agent
+piotr     1681  0.0  0.2 401068 23960 ?        Sl   Jun12   0:01 light-locker
+piotr     1685  0.2  2.5 773452 204212 ?       Sl   Jun12   9:02 mintreport-tray
+piotr     1687  0.0  0.4 465184 32880 ?        Sl   Jun12   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+piotr     1693  0.0  0.0 187980  5196 ?        Sl   Jun12   0:00 /usr/lib/dconf/dconf-service
+piotr     1707  0.0  0.1 300552  8604 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+piotr     1712  0.0  0.3 411620 25280 ?        Ssl  Jun12   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+piotr     1715  0.0  0.0 269984  6036 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+piotr     1720  0.0  0.0 268216  5832 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+piotr     1724  0.0  0.0 282772  6756 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+piotr     1731  0.0  0.0 372932  7672 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+piotr     1779  0.0  0.7 896096 61136 ?        Sl   Jun12   0:01 mintUpdate
+piotr     1788  0.0  0.0  83032  6836 ?        Ss   Jun12   0:00 /usr/lib/bluetooth/obexd
+piotr     2001  0.0  0.0 362220  7456 ?        Sl   Jun12   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.12 /org/gtk/gvfs/exec_spaw/0
+piotr     2014  0.0  0.0 438372  7832 ?        Sl   Jun12   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.12 /org/gtk/gvfs/exec_spaw/2
+piotr     2024  0.0  0.2 768728 18304 ?        Sl   Jun12   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.12 /org/gtk/gvfs/exec_spaw/4
+piotr     2025  0.0  0.0 198592  5848 ?        Ssl  Jun12   0:00 /usr/lib/gvfs/gvfsd-metadata
+piotr     2037  0.0  0.0 449136  7832 ?        Sl   Jun12   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.12 /org/gtk/gvfs/exec_spaw/5
+piotr     2303  0.0  0.0 282204  7660 ?        Sl   Jun12   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+root      3614  0.0  0.1 368112 14048 ?        Ssl  Jun12   0:02 /usr/lib/packagekit/packagekitd
+piotr     4533  0.0  0.6 1010432 49556 ?       Sl   Jun12   0:33 xfce4-terminal
+piotr     4537  0.0  0.0  25500  7028 pts/0    Ss   Jun12   0:01 bash
+root      5405  0.0  0.0      0     0 ?        I    Jun13   0:37 [kworker/1:2-ata]
+piotr     6554  0.0  1.6 869520 132744 ?       Sl   Jun13   0:55 /usr/share/code/code --unity-launch
+piotr     6557  0.0  0.4 326816 36888 ?        S    Jun13   0:00 /usr/share/code/code --type=zygote
+piotr     6559  0.0  0.0 326816  6280 ?        S    Jun13   0:00 /usr/share/code/code --type=zygote
+piotr     6583  0.0  0.9 407372 79972 ?        Sl   Jun13   1:04 /usr/share/code/code --type=gpu-process --field-trial-handle=3872223915475268894,2021954378651746263,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-color-correct-rendering --gpu-preferences=KAAAAAAAAAAgAAAgAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=9785047688106754294
+piotr     6585  0.0  0.1 333332  8704 ?        S    Jun13   0:00 /usr/share/code/code --type=broker
+piotr     6595  0.0  0.7 399156 59404 ?        Sl   Jun13   0:01 /usr/share/code/code --type=utility --field-trial-handle=3872223915475268894,2021954378651746263,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --service-request-channel-token=10742112595759611503 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+piotr     6604  0.2  3.4 12590244 277720 ?     SLl  Jun13   4:06 /usr/share/code/code --type=renderer --disable-color-correct-rendering --field-trial-handle=3872223915475268894,2021954378651746263,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --webview-tag --no-sandbox --no-zygote --background-color=#1e1e1e --num-raster-threads=1 --service-request-channel-token=912902745764446006 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+piotr     6654  0.0  2.2 726844 181008 ?       Sl   Jun13   1:26 /usr/share/code/code --inspect-port=0 /usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost
+piotr     6662  0.0  0.0  23936  5012 pts/1    Ss+  Jun13   0:00 /bin/bash
+piotr     6701  0.0  1.4 688612 121412 ?       Sl   Jun13   0:13 /usr/share/code/code --type=renderer --disable-color-correct-rendering --field-trial-handle=3872223915475268894,2021954378651746263,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=1 --service-request-channel-token=3197891990184239637 --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+piotr     6723  0.1  1.0 1163256 87468 ?       Sl   Jun13   2:27 /home/piotr/.vscode/extensions/ms-vscode.cpptools-0.28.3/bin/cpptools
+piotr     6793  0.0  0.7 515508 61984 ?        Sl   Jun13   0:05 /usr/share/code/code /usr/share/code/resources/app/extensions/json-language-features/server/dist/jsonServerMain --node-ipc --clientProcessId=6654
+piotr     6803  0.1  0.8 591180 68924 ?        Sl   Jun13   2:35 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap-fork --type=watcherService
+piotr     9931  0.0  0.0  24008  5388 pts/2    Ss+  Jun12   0:00 bash
+piotr    11911  0.0  0.0  11064  1040 pts/0    T    Jun12   0:00 less
+piotr    12364  0.0  0.7 4451356 58304 ?       Sl   Jun13   0:10 /home/piotr/.vscode/extensions/ms-vscode.cpptools-0.28.3/bin/cpptools-srv 6723 12
+root     14557  0.0  0.0  25980  6296 ?        S    Jun12   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-enp0s3.pid -lf /var/lib/NetworkManager/dhclient-e4a83ed1-ffec-3b43-b586-fff7d82dc426-enp0s3.lease -cf /var/lib/NetworkManager/dhclient-enp0s3.conf enp0s3
+root     14890  0.0  0.0 101808  8096 ?        Ss   00:09   0:00 /usr/sbin/cupsd -l
+root     14891  0.0  0.1 303660 10996 ?        Ssl  00:09   0:00 /usr/sbin/cups-browsed
+piotr    23089  0.0  0.6 470492 54044 ?        Sl   12:22   0:00 xfce4-panel --display :0.0 --sm-client-id 2971446d2-bea5-4ec5-a757-90ee090b7740
+piotr    23101  0.0  0.4 478176 33172 ?        Sl   12:22   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 10485767 whiskermenu Whisker Menu Show a menu to easily access installed applications
+piotr    23102  0.0  0.2 339872 21608 ?        Sl   12:22   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 8 10485768 systray Notification Area Area where notification icons appear
+piotr    23103  0.0  0.3 392524 30360 ?        Sl   12:22   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 9 10485769 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+piotr    23104  0.0  0.3 464184 29152 ?        Sl   12:22   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxapp-status-plugin.so 10 10485770 xapp-status-plugin XApp Status Plugin Area where XApp Status icons appear
+piotr    23105  0.0  0.3 394616 30776 ?        Sl   12:22   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 11 10485771 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+piotr    23108  0.0  0.3 688796 32240 ?        Sl   12:22   0:06 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 12 10485772 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+root     23267  0.0  0.0      0     0 ?        I    12:39   0:07 [kworker/0:0-eve]
+root     25610  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/1:0-cgr]
+root     25943  0.0  0.0      0     0 ?        I    15:16   0:00 [kworker/u4:1-ev]
+root     26696  0.0  0.0      0     0 ?        I    16:00   0:00 [kworker/0:1-cgr]
+root     26812  0.0  0.0      0     0 ?        I    16:24   0:00 [kworker/u4:2-ev]
+root     26834  0.0  0.0      0     0 ?        I    16:28   0:00 [kworker/0:2-eve]
+root     27307  0.0  0.0      0     0 ?        I    16:28   0:00 [kworker/0:3]
+piotr    27327  0.0  0.0  40880  3632 pts/0    R+   16:29   0:00 ps -aux
+174 ./copy.txt
+root       718  0.0  0.2 171700 17516 ?        Ssl  Jun12   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+message+   727  0.0  0.0  51420  5756 ?        Ss   Jun12   0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+piotr     1389  0.0  0.0 282592  7888 ?        Sl   Jun12   0:03 /usr/bin/gnome-keyring-daemon --daemonize --login
+piotr     1423  0.0  0.0  50676  5184 ?        Ss   Jun12   0:22 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+piotr     1480  0.0  0.0  53796   316 ?        S    Jun12   0:00 /usr/bin/VBoxClient --clipboard
+piotr     1481  0.0  0.0 122184  4340 ?        Sl   Jun12   0:00 /usr/bin/VBoxClient --clipboard
+piotr     1490  0.0  0.0  53796   320 ?        S    Jun12   0:00 /usr/bin/VBoxClient --display
+piotr     1491  0.0  0.0  53932  3480 ?        S    Jun12   0:00 /usr/bin/VBoxClient --display
+piotr     1499  0.0  0.0  53796   320 ?        S    Jun12   0:00 /usr/bin/VBoxClient --seamless
+piotr     1500  0.0  0.0 119980  2208 ?        Sl   Jun12   0:00 /usr/bin/VBoxClient --seamless
+piotr     1509  0.0  0.0  53796   316 ?        S    Jun12   0:00 /usr/bin/VBoxClient --draganddrop
+piotr     1510  0.4  0.0 120500  2184 ?        Sl   Jun12  14:19 /usr/bin/VBoxClient --draganddrop
+piotr     1520  0.0  0.0  11300   320 ?        Ss   Jun12   0:02 /usr/bin/ssh-agent /usr/bin/im-launch startxfce4
+piotr     1553  0.0  0.0  50048  4456 ?        S    Jun12   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+piotr     1579  0.0  0.0  94532  3536 ?        SLs  Jun12   0:00 /usr/bin/gpg-agent --supervised
+piotr     1639  0.0  0.2 1071644 16844 ?       S<l  Jun12   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+piotr     1671  0.0  0.4 251232 32680 ?        Sl   Jun12   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+piotr     2303  0.0  0.0 282204  7660 ?        Sl   Jun12   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+piotr     6662  0.0  0.0  23936  5012 pts/1    Ss+  Jun13   0:00 /bin/bash
+piotr     6723  0.1  1.0 1163256 87468 ?       Sl   Jun13   2:27 /home/piotr/.vscode/extensions/ms-vscode.cpptools-0.28.3/bin/cpptools
+piotr    12364  0.0  0.7 4451356 58304 ?       Sl   Jun13   0:10 /home/piotr/.vscode/extensions/ms-vscode.cpptools-0.28.3/bin/cpptools-srv 6723 12
